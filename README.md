@@ -25,6 +25,6 @@ except ValueError:
  print(“Enter a valid number”)
 ```
 # Output:
-![image](https://github.com/user-attachments/assets/fef832c7-5dad-4052-86ed-76b6abd6a94b)
+![image](https://github.com/user-attachments/assets/417724e0-f682-48c4-ac61-ca5c9e96f7aa)
 # Result:
 Thus, a program to check sorting has been written and test cases have been written and verified successfully.
